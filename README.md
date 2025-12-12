@@ -1,0 +1,2 @@
+# Primecoin
+Primecoin
